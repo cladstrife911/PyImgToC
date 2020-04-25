@@ -1,0 +1,1 @@
+extern const boolean cba_test[32][32];
